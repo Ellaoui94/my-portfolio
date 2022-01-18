@@ -1,0 +1,21 @@
+.losange, .losange div {
+    display: grid;
+    position: absolute;
+    transform-origin: 50% 50%;
+    overflow: hidden;
+    width: 120px;
+    height: 120px;
+    z-index: -1;
+}
+.losange {
+    transform: rotate(45deg) translateY(10px);
+}
+.losange .los1 {
+    width: 355px;
+    height: 355px;
+    transform: rotate(-45deg) translateY(-74px);
+}
+.losange .los1 img {
+    width: 100%;
+    height: auto;
+}
