@@ -31,8 +31,8 @@ export const projects = [
     description: "This is a HTML project where we use the framework Bulma for our CSS and responsive design",
     image: '/images/img.png',
     tags: ['HTML', 'CSS', 'Javascript', 'Bulma'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/Ellaoui94/WebprosjektEksamen',
+    visit: 'https://ellaoui94.github.io/WebprosjektEksamen/',
     id: 3,
   },  {
     title: 'JDBC and Data Acess Object - A simple quiz form',

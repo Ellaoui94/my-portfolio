@@ -21,7 +21,6 @@ const BackgroundAnimation = () => (
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <img src={pfp}/>
       <g opacity="0.15">
         <path
           fillRule="evenodd"
