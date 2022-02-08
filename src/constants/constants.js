@@ -13,8 +13,8 @@ export const projects = [
     description:"A responsive and user friendly website with dark and light mode, and color changes for the navbar. I made this during a React course I took. It uses a .json file for data",
     image: '/images/img_3.png',
     tags: ['React', 'JavaScript', '.json'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/Ellaoui94/recipe_directory',
+    visit: 'https://ninja-cooking.netlify.app/',
     id: 1,
   },
   {
@@ -22,8 +22,8 @@ export const projects = [
     description: "This is also a project that I made during a course. It remembers where the user clicked and stores it.",
       image: '/images/img_2.png',
       tags: ['React'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/Ellaoui94/memory-game',
+    visit: 'https://ememory-game.netlify.app/',
     id: 2,
   },
   {
