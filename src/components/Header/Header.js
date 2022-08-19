@@ -32,10 +32,10 @@ const Header = () =>  (
           </li>
       </Div2>
       <Div3>
-          <SocialIcons href="https://github.com/Ellaoui94">
+          <SocialIcons href="https://github.com/Ellaoui94" target="_blank">
               <AiFillGithub size="3rem"/>
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/in/ellaoui-abdellaoui-9b7033207/">
+          <SocialIcons href="https://www.linkedin.com/in/ellaoui/" target="_blank">
               <AiFillLinkedin size="3rem"/>
           </SocialIcons>
       </Div3>

@@ -34,14 +34,22 @@ export const projects = [
     source: 'https://github.com/Ellaoui94/WebprosjektEksamen',
     visit: 'https://ellaoui94.github.io/WebprosjektEksamen/',
     id: 3,
-  },  {
+  },
+  {
     title: 'JDBC and Data Acess Object - A simple quiz form',
     description: "This is a Java project where the user can make a question and also answer it. The data is stored in a database linked to the html sites using an API fetch method.",
     image: '/images/img_4.png',
     tags: ['Java', 'PostgreSQL', 'HTML', 'CSS', 'Javascript', 'Maven'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 3,
+    source: 'https://github.com/kristiania-pgr203-2021/pgr203-innlevering-3-Mathias223',
+    id: 4,
+  },
+  {
+    title: 'Reverse Image Search App',
+    description: "This is a Android project where we use XML for the layout, and Kotlin for det logic and API calls. The API is sending a (optional)cropped image to either Google, Tineye or Bing and returns the result. The images is then saved to an SQLite database.",
+    image: '/images/img_5.png',
+    tags: ['Kotlin', 'XML', 'Java', 'Gradle', 'SQLite'],
+    source: 'https://github.com/Ellaoui94/AndroidExam',
+    id: 5,
   },
 ];
 
