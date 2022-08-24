@@ -36,12 +36,21 @@ export const projects = [
     id: 3,
   },
   {
+    title: 'Scrum project: atCampus Student App',
+    description: "This ia a big project where a company asked us to make an example of an app for students. We were free to choose the design and functionality before we started the development. We used ScrumWise for our tracking of our work.",
+    image: '/images/img_6.png',
+    tags: ['React', 'Express', 'MongoDB', 'Mongoose', 'JWT', 'Figma'],
+    source: 'https://github.com/Ellaoui94/Smidig_prosjekt_gruppe_18',
+    visit: 'https://atcampus-studybuddy.herokuapp.com/',
+    id: 4,
+  },
+  {
     title: 'JDBC and Data Acess Object - A simple quiz form',
     description: "This is a Java project where the user can make a question and also answer it. The data is stored in a database linked to the html sites using an API fetch method.",
     image: '/images/img_4.png',
     tags: ['Java', 'PostgreSQL', 'HTML', 'CSS', 'Javascript', 'Maven'],
     source: 'https://github.com/kristiania-pgr203-2021/pgr203-innlevering-3-Mathias223',
-    id: 4,
+    id: 5,
   },
   {
     title: 'Reverse Image Search App',
@@ -49,7 +58,7 @@ export const projects = [
     image: '/images/img_5.png',
     tags: ['Kotlin', 'XML', 'Java', 'Gradle', 'SQLite'],
     source: 'https://github.com/Ellaoui94/AndroidExam',
-    id: 5,
+    id: 6,
   },
 ];
 
